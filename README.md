@@ -21,4 +21,4 @@ Automated Bash script to run in Kali Linux
 
 	              *!___That's It Enjoy___!*
 		      		      
-If You Are Online ByDefault You Are Vulnerable...!!
+# If You Are Online ByDefault You Are Vulnerable...!!
