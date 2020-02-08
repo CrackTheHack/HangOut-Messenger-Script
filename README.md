@@ -20,3 +20,5 @@ Automated Bash script to run in Kali Linux
  6. ./Person1.sh or Person.sh
 
 	              *!___That's It Enjoy___!*
+		      
+If You Are Online ByDefault You Are Vulnerable..!!		      
