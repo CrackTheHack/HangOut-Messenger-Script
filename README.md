@@ -1,6 +1,7 @@
-#Author : Utkarsh Singh
-#Copyright (C) 2020
-#HaNgOuT-BaSh-ScRiPt
+#Author : Utkarsh Singh  
+#Copyright (C) 2020  
+#HaNgOuT-BaSh-ScRiPt   
+#Website : https://crackthehack.club  
 
 Automated Bash script to run in Kali Linux
 
